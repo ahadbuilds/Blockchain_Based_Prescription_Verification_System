@@ -253,29 +253,32 @@ viewPrescription()
 
 ## Screenshots
 
+### Home
+![Home](screenshots/home.jpg)
+
 ### Admin Portal
 
-![Admin Portal](screenshots/admin-portal.png)
+![Admin Portal](screenshots/admin-portal.jpg)
 
 ### Doctor Portal
 
-![Doctor Portal](screenshots/doctor-portal.png)
+![Doctor Portal](screenshots/doctor-portal.jpg)
 
 ### Pharmacy Portal
 
-![Pharmacy Portal](screenshots/pharmacy-portal.png)
+![Pharmacy Portal](screenshots/pharmacy-portal.jpg)
 
 ### Patient Portal
 
-![Patient Portal](screenshots/patient-portal.png)
+![Patient Portal](screenshots/patient-portal.jpg)
 
 ### Emergency Portal
 
-![Emergency Portal](screenshots/emergency-portal.png)
+![Emergency Portal](screenshots/emergency-portal.jpg)
 
 ### Blockchain Transaction History
 
-![Transaction History](screenshots/transaction-history.png)
+![Transaction History](screenshots/transaction-history.jpg)
 
 ---
 
